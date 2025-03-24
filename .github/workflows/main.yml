@@ -17,7 +17,7 @@ jobs:
         with:
           name: html-files
           path: |
-            index.html
+            form.html
             main.css
             images/
 
